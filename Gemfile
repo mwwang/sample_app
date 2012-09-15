@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.8'
-gem "twitter-bootstrap-rails", :group => :assets
+gem "twitter-bootstrap-rails", "~> 2.0rc0"
 gem 'bcrypt-ruby'
 
 # Bundle edge Rails instead:
